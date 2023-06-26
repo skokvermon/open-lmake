@@ -46,6 +46,10 @@ lmake is like make, except that it is practical, scalable and reliable
 		- you can force such dependencies, in which cases these exceptions will be reported at each run
 - and more...
 
+# documentation
+
+Documentation is available [here](doc/lmake.md)
+
 # installation 
 
 ## requirements
